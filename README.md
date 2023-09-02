@@ -5,9 +5,9 @@ I like that place not only because of its **nature** and also because of it is *
 
 ## Activities that I did
 
-Visit  Z point
+1.Visit  Z point
 ---
-Hebbe falls
+2.Hebbe falls
 ---
-Visit the Rock garden
+3.Visit the Rock garden
 ---
