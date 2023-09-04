@@ -30,3 +30,14 @@ Here are four sports recommendations along with reasons why you should try them 
 
 > *"The good thing about science is that it's true whether or not you believe in it."*
 > - *Neil deGrasse Tyson*
+
+# Code Fencing
+<button>
+  some
+  <br />
+  text
+</button>
+
+<input type="button" value="some&#13;&#10;text" />
+
+<input type="button" value="some&#x00A;text" />
