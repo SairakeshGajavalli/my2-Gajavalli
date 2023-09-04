@@ -12,3 +12,5 @@ I like that place not only because of its **nature** and also because of it is *
 - Noodles
 - Biryani
 - French toast
+
+[Link to MyStats.md](https://github.com/SairakeshGajavalli/my2-Gajavalli/blob/main/MyStats.md)
