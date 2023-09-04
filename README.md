@@ -14,3 +14,12 @@ I like that place not only because of its **nature** and also because of it is *
 - French toast
 
 [Link to MyStats.md](https://github.com/SairakeshGajavalli/my2-Gajavalli/blob/main/MyStats.md)
+
+# Sports
+Here are four sports recommendations along with reasons why you should try them and the average weekly time commitment
+|Sport |Reason |Number of hours per week|
+| :---: | :---: | :---: |
+|Tennis|Great for fitness and improves agility.|4-6 hours|
+|Rock Climbing|Challenges both physical and mental strength.|3-4 hours|
+|Swimming|Full-body workout and a refreshing experience.|4-6 hours|
+|Cycling|Enjoy the outdoors and improve endurance.|5-7 hours|
