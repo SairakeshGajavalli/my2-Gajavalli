@@ -32,6 +32,7 @@ Here are four sports recommendations along with reasons why you should try them 
 > - *Neil deGrasse Tyson*
 
 # Code Fencing
+```
 <button>
   some
   <br />
@@ -41,3 +42,4 @@ Here are four sports recommendations along with reasons why you should try them 
 <input type="button" value="some&#13;&#10;text" />
 
 <input type="button" value="some&#x00A;text" />
+```
