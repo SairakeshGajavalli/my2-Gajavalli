@@ -31,10 +31,11 @@ Here are four sports recommendations along with reasons why you should try them 
 > *"The good thing about science is that it's true whether or not you believe in it."*
 > - *Neil deGrasse Tyson*
 
-> Wrapping an HTML input button's text value over multiple lines
-[Link to code snippet](https://stackoverflow.com/questions/13048499/wrapping-an-html-input-buttons-text-value-over-multiple-lines)
 # Code Fencing
 ```
+> Wrapping an HTML input button's text value over multiple lines
+[Link to code snippet](https://stackoverflow.com/questions/13048499/wrapping-an-html-input-buttons-text-value-over-multiple-lines)
+
 <button>
   some
   <br />
