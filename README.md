@@ -32,10 +32,11 @@ Here are four sports recommendations along with reasons why you should try them 
 > - *Neil deGrasse Tyson*
 
 # Code Fencing
-```
+
 > Wrapping an HTML input button's text value over multiple lines
 [Link to code snippet](https://stackoverflow.com/questions/13048499/wrapping-an-html-input-buttons-text-value-over-multiple-lines)
 
+```
 <button>
   some
   <br />
